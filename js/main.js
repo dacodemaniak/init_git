@@ -7,3 +7,5 @@ import {App} from './app.js'
     // Instanciate App class
     const app = new App()
 })()
+
+class App {}
