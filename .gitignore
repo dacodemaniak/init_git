@@ -1,0 +1,10 @@
+# System folders
+.DS_Store
+
+# Environments
+.venv
+.env
+
+# Logs
+logs
+!logs/.gitkeep
