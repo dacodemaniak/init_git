@@ -9,3 +9,8 @@
 .darkmode {
     background-color: var(--dark-mode);
 }
+
+.toolbar {
+    width: 100%;
+    background-color: var(--dark-mode);
+}
