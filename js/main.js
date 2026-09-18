@@ -6,6 +6,7 @@ import {App} from './app.js'
     console.log("Hello world!")
     // Instanciate App class
     const app = new App()
+    document.querySelector('body').addClass('darkmode')
 })()
 
 class App {}
